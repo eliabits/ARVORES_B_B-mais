@@ -26,7 +26,7 @@ Instituto Federal de Pernambuco - IFPE
 - Erik Jerônimo  
 - Joseildo Dos Santos  
 - Luis Felipe  
-- Reginaldo  
+- Reginaldo Ayalos
 
 ---
 
